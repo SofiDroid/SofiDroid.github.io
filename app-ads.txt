@@ -1,3 +1,0 @@
-# app-ads.txt SOS Emergencias: Aviso Automatico
-
-google.com, pub-3241618742839355, DIRECT, f08c47fec0942fa0
